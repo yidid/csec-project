@@ -1,19 +1,23 @@
 *{
     font-family:'Teko', sans-serif ;
     font-size: 20px;
+}.form-all
+{
+    align-items: center;
 }
-/* input{
-    font-family:sans-serif;
-    font-size: 10px;
 
-} */
 .title{
     color:#007bff;
     font-family: 'Teko', sans-serif;
     font-size: 40px;
     text-align: center;
      
+}.form-group1{
+    display: flex;
+    padding-left: 1px;
+  
 }
+
 
 .mgTp{
     margin-top:3%;
@@ -36,6 +40,10 @@
     color: #007bff !important;
 }a{
     color: aliceblue;
+}#idno{
+padding-left: 100px;
+
+
 
 }img{
     width: 40%;
@@ -54,8 +62,9 @@
     color: #666; 
     outline: none; 
     height:40px; 
-    width: 500px; 
+    width: 200px; 
     font-size: 19PX;
+    margin: 5px;
   }
   
   .main-title{
