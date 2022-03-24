@@ -54,8 +54,8 @@
 }#idno{
 padding-left: 100px;
 }#img2{
-    width: 15%;
-    height:30%;
+    width: 13%;
+    height:28%;
     align-self: center;
    
 
@@ -115,7 +115,12 @@ padding-left: 100px;
 
   }
   .button:hover {
-    background-color: rgb(8, 7, 8); /* Green */
+    background-color: rgb(8, 7, 8); 
     color: white;
+  }#forget{
+      color: black;
+      text-decoration: none;
+  }#forget:hover {
+   color:blue; 
+   
   }
-  
