@@ -12,10 +12,21 @@
     font-size: 40px;
     text-align: center;
      
+}
+.title2{
+    color:#007bff;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin:10px;
+
 }.form-group1{
     display: flex;
     padding-left: 1px;
   
+}.note{
+    padding:15px;
+    color: #666;
 }
 
 
@@ -42,12 +53,16 @@
     color: aliceblue;
 }#idno{
 padding-left: 100px;
+}#img2{
+    width: 15%;
+    height:30%;
+    align-self: center;
+   
 
 
 
 }img{
     width: 40%;
-
     align-self: center;
 }.center {
     display: block;
@@ -86,4 +101,21 @@ padding-left: 100px;
       font-family: 'Lobster', cursive;
       color: #007bff;
       font-size: 25px;
-}
+}.forget-pass1{
+     align-items: center;
+     text-align: center;
+}.button {
+    background-color: #007bff;
+    color: aliceblue;
+    transition-duration: 0.4s;
+    border-radius: 1%;
+    width: 500px;
+    height: 50px;
+    border: white;
+
+  }
+  .button:hover {
+    background-color: rgb(8, 7, 8); /* Green */
+    color: white;
+  }
+  
