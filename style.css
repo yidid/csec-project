@@ -124,3 +124,8 @@ padding-left: 100px;
    color:blue; 
    
   }
+
+  a:hover{
+      color: white;
+      text-decoration: none;
+  }

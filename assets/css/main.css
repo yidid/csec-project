@@ -1,15 +1,4 @@
-/**
-* Template Name: HeroBiz - v2.1.0
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/**
-* Check out variables.css for easy customization of colors, typography, and other repetitive properties
-*/
-/*--------------------------------------------------------------
-# General
 --------------------------------------------------------------*/
 :root {
   scroll-behavior: smooth;
@@ -2770,4 +2759,12 @@ section {
 .footer .footer-legal .social-links a:hover {
   background: var(--color-primary);
   text-decoration: none;
+}#contact{
+  align-content: center;
+  align-items: center;
+  
+}#username{
+  margin-bottom: 15px;
+  padding-left: 70px;
+  color: rgb(107, 107, 239);
 }
